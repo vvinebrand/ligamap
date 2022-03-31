@@ -1,0 +1,22 @@
+
+.cfheader {
+    background: #CDE2F5;
+    padding-top: 50px;
+}
+.cffooter {
+    background: #373380;
+    padding-top: 50px;
+}
+.text1, .text2{
+    font-family: 'Montserrat', sans-serif;
+}
+.text1 {
+    font-size: xx-large;
+    font-weight: 800;
+    padding-top: 50px;
+    margin: 5px;
+}
+.text2 {
+    font-size: medium;
+    font-weight: 500;
+}
